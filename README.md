@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Learek
 - 👀 I make stuff on the web.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... VUE.js,NODE.js,GrapQL,MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here: https://twitter.com/learek 
 
