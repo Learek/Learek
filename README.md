@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Learek.
-- 👀 I make stuff on the web.
-- 🌱 I’m currently learning Vue.js, Node.js, GrapQL, MongoDB and more.
+- 👀 I build meaningful web content with purpose.
+- 🌱 I’m currently working with Vue.js, Node.js, GraphQL and more.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Here: https://twitter.com/learek 
 
