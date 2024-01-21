@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Learek.
 - 👀 I build meaningful web content with purpose.
 - 🌱 I’m currently working with Vue.js, Node.js, GraphQL and more.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm seeking collaborations on cutting-edge projects that inspire and innovate.
 - 📫 How to reach me? Here: https://twitter.com/learek 
 
 <!---
